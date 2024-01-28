@@ -1,0 +1,8 @@
+%CIchetan_msg_critical %0w
+%0w
+#
+#
+%CEchetan_msg_error %0w
+%0w
+#
+#

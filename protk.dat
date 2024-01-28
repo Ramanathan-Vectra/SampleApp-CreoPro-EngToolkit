@@ -1,0 +1,7 @@
+NAME       Sample_App
+EXEC_FILE  D:\chetan\Sample_App\Sample_App\Sample_App\x64\Debug\Sample_App.dll
+TEXT_DIR   D:\chetan\Sample_App\Sample_App\Sample_App\text
+STARTUP    dll
+allow_stop	true
+delay_start true
+END

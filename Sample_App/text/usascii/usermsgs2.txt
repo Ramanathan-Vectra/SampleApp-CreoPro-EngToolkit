@@ -1,0 +1,52 @@
+Creo_Sample
+Creo Sample Application
+#
+#
+Creo_Sample_Help
+Starts the Creo Sample Application
+#
+#
+%CI MESG_Select_Surf_Ref
+Please Select a Surface to create Surface Reference for Annotation Element
+#
+#
+%CI MESG_Select_Surf_Gtol
+Please Select the Surface to attach Geometric Tolerance
+#
+#
+%CI MESG_Select_Point
+Please Select a Point where Geometric Tolerance will be placed
+#
+#
+%CI MESG_Select_Gtol_Datum
+Please Select the Geometric Tolerance to attach Datum Tag
+#
+#
+%CI MESG_Select_Gtol_DRF
+Please Select the Geometric Tolerance to attach DRF
+#
+#
+%CI MESG_Select_Gtol_Gtol
+Please Select the Geometric Tolerance
+#
+#
+%CI MESG_Select_Surf_Datum
+Please Select the Surface to attach Datum Tag
+#
+#
+%CI MESG_Select_Dim_Datum
+Please Select the Dimension to attach Datum Tag
+#
+#
+%CI MESG_Select_Dim_Gtol
+Please Select the Dimension to attach Geometric Tolerance
+#
+#
+%CI MESG_Select_Gtol_Composite
+Please Select the Composite Gtol
+#
+#
+%CI MESG_Data_Clean
+Selected Slot Data clean from Model
+#
+#
